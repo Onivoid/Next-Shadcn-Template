@@ -2,11 +2,7 @@ name: Frontend CI
 
 on:
     push:
-        paths:
-            - "./**"
     pull_request:
-        paths:
-            - "./**"
 
 jobs:
     format:
