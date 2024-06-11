@@ -1,5 +1,5 @@
-export default function Home() {
-    const title = "Home";
+export default function About() {
+    const title = "About";
     return (
         <main>
             <p>{title}</p>
